@@ -1,4 +1,3 @@
-// src/yjs.gateway.ts
 import {
   WebSocketGateway,
   OnGatewayConnection,
