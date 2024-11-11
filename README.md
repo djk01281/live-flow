@@ -5,7 +5,10 @@
 🔖 **학습정리** : https://djk0128.notion.site/YJS-13bff3be3e8a80b0bea5dc8e568b79d1
 
 
-https://github.com/user-attachments/assets/fbb3ad01-4a74-4a75-82df-a01e5dd02262
+
+
+https://github.com/user-attachments/assets/1cb6b35f-d19a-424b-8d0b-4251454b5d16
+
 
 > 동작 예시.
 
