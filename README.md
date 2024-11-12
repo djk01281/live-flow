@@ -27,7 +27,7 @@ yarn
 # 서버 실행 (dev mode, 3000번 포트)
 yarn start:dev
 ```
-**클라이언드 실행방법**
+**클라이언트 실행방법**
 ```bash
 # frontend 폴더로 이동
 cd frontend
