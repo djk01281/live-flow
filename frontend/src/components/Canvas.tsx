@@ -67,7 +67,7 @@ export default function Canvas() {
   useEffect(() => {
     const doc = new Y.Doc();
     const wsProvider = new WebsocketProvider(
-      "ws://localhost:3000",
+      "ws://localhost:1234",
       "flow-room",
       doc
     );

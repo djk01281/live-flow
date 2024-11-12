@@ -1,7 +1,7 @@
 import { Module } from '@nestjs/common';
-import { YjsGateway } from './yjs.gateway';
+import { YjsModule } from './yjs/yjs.module';
 
 @Module({
-  providers: [YjsGateway],
+  imports: [YjsModule],
 })
 export class AppModule {}
